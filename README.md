@@ -1,1 +1,1 @@
-<h1><a href="YOUR_LINK_HERE" target="_blank">Download from the link below</a></h1>
+<h1>Download from the link down</h1>
